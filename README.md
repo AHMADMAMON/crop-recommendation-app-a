@@ -1,2 +1,2 @@
-#link od stream cloud 
-https://mental-health-predictor-app-3dgxgaynybqpxxtz67jazb.streamlit.app/
+#link of stream cloud 
+https://crop-recommendation-app-a-nzehwgxhjnsf8khmvywnyw.streamlit.app/
